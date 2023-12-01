@@ -17,15 +17,17 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - 2023: AI Developer
+  * HARA AI, Tehran
+  * Improving OCR Models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: AI Researcher
+  * ASR Gooyesh Pardaz, Tehran
+  * Developing a customer support chatbot
+
+* Summer 2018: Robotics Intern
+  * TaarLab, University of Tehran
+  * Adding object detection to a 3-DOF Delta robot
 
 Publications
 ======
